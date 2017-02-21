@@ -3,23 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tt_loadSB</string>
+	<string>tt_cell_identify</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>   UIStoryboard *storyboard = [UIStoryboard storyboardWithName:&lt;#被替换的内容#&gt; bundle:nil];
-                    &lt;#被替换的内容#&gt; *&lt;#被替换的内容#&gt; = [storyboard instantiateViewControllerWithIdentifier:&lt;#被替换的内容#&gt;];
-</string>
+	<string>static NSString *const &lt;#PAYMETHODCELLIDENTIFY#&gt;  = &lt;#@"RHPayMethodCell"#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>861D25F8-1448-4C54-813F-655D494AF5CF</string>
+	<string>46093C32-571B-479A-9552-0C2BF12B1F45</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tt_loadSB</string>
+	<string>tt_cellIdentify</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
