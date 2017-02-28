@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mark</string>
+	<string>ssw</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>ClassInterfaceMethods</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: &lt;# comments #&gt;</string>
+	<string>@property (assign, nonatomic) &lt;#type#&gt; &lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A2B689F6-6772-4EDC-9A48-32C3CFC5BA63</string>
+	<string>1551D8FC-7037-40B0-8160-086655C31A7E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tt_mark</string>
+	<string>tq weak type  property</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
